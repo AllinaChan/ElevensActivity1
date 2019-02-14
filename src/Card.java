@@ -82,8 +82,6 @@ public class Card {
             return false;
         }
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
-
-
     }
 
     /**
